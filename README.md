@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Danilo de Maria</h1>
+<h1 align="center">Hi, I'm Danilo de Maria</h1>
 <h3 align="center">Full-Stack Developer, computer engineer. Passion for technology, games and electronic circuits.</h3>
+<h3 align="center">Postgraduate in Computer Networks.</h3>
+<h4 align="center">B4you - Pay42 - Pixtopay</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilodemaria&label=Profile%20views&color=0e75b6&style=flat" alt="danilodemaria" /> </p>
 
