@@ -22,19 +22,19 @@
 <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whit
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColo
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### 📊 Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=danilodemaria&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="Danilo's GitHub stats" />
+<img src="https://github-readme-stats-five-gules-50.vercel.app/api?username=danilodemaria&shount_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"alt="Danilo's GitHub stats" />
 </p>
 
 <p align="left">
-<img src="https://streak-stats.demolab.com/?user=danilodemaria&theme=radical&count_private=trak" />
+<img src="https://streak-stats.demolab.com/?user=danilodemaria&theme=radical&count_private=true" alt="Danilo's GitHub streak" />
 </p>
 
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-s/?username=danilodemaria&layout=compact&theme=radical" alt="Top Langs" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-five-gules-50.vercel.app/api/top-langs/?username=danilodemaria&layout=compact&theme=radical" alt="Top Langs" /></a>
 </p>
